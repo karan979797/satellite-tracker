@@ -1,8 +1,8 @@
-import React from 'react';
-import GitHubForkRibbon from 'react-github-fork-ribbon';
+//import React from 'react';
+//import GitHubForkRibbon from 'react-github-fork-ribbon';
 
 
-const Fork = () => {
+//const Fork = () => {
     return (
         <GitHubForkRibbon href="https://github.com/dsuarezv/satellite-tracker"
                 target="_blank"
@@ -12,4 +12,4 @@ const Fork = () => {
     )
 }
 
-export default Fork;
+//export default Fork;

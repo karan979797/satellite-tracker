@@ -4,7 +4,7 @@ import { Engine } from './engine';
 import Info from './Info';
 import Search from './Search/Search';
 import SelectedStations from './Selection/SelectedStations';
-import Fork from './fork';
+//import Fork from './fork';
 import * as qs from 'query-string';
 import Highlights from './highlights';
 import DateSlider from './Options/DateSlider';
